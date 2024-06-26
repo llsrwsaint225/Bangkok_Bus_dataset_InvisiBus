@@ -1,8 +1,8 @@
 
-Bangkok-Bus-Dataset type2 - v2 2024-06-25 11:08pm
+Bangkok-Bus-Dataset type2 - v3 2024-06-26 5:11am
 ==============================
 
-This dataset was exported via roboflow.com on June 25, 2024 at 11:10 PM GMT
+This dataset was exported via roboflow.com on June 26, 2024 at 5:13 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 3235 images.
+The dataset includes 3333 images.
 Bus-line-number-and-num-of-bus-wrad are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:

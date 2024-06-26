@@ -1,4 +1,4 @@
-# Bangkok-Bus-Dataset type2 > 2024-06-25 11:08pm
+# Bangkok-Bus-Dataset type2 > 2024-06-26 5:11am
 https://universe.roboflow.com/saint70239/bangkok-bus-dataset-type2
 
 Provided by a Roboflow user
